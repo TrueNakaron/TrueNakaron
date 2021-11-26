@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TrueNakaron, my name is Felix and I'm 20 years old.
+- 👀 I’m interested in programming, thinking about becoming a computer scientist in the future.
+- 🌱 I’m currently learning Python, Data Structures and HTML/CSS/JS to become a full-stack developer.
+- 💞️ I’m looking to collaborate on games and machine learning, generally with Python and C/C++..
+- 📫 How to reach me: talk to me (via e-mail) at truenakaron@gmail.com or at Discord: TrueNakaron#5659.
